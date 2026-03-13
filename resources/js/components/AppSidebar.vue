@@ -23,6 +23,11 @@ const mainNavItems: NavItem[] = [
         href: dashboard(),
         icon: LayoutGrid,
     },
+    {
+        title: 'Agama',
+        href: '/agamas',
+        icon: BookOpen,
+    },
 ];
 
 const footerNavItems: NavItem[] = [
